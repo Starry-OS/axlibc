@@ -15,6 +15,7 @@ license = "GPL-3.0-or-later OR Apache-2.0"
 homepage = "https://github.com/rcore-os/arceos"
 repository = "https://github.com/rcore-os/arceos/tree/main/ulib/axlibc"
 documentation = "https://rcore-os.github.io/arceos/axlibc/index.html"
+keywords = ["Starry"]
 
 [lib]
 crate-type = ["lib", "staticlib"]
